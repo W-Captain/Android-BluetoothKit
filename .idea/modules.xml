@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-BluetoothKit.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-BluetoothKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-BluetoothKit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-BluetoothKit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/Android-BluetoothKit.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/Android-BluetoothKit.library.iml" />
+    </modules>
+  </component>
+</project>
